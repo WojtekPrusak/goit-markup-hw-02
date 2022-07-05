@@ -30,7 +30,7 @@ body
     width: 1600px
 }
 
-.nav-header
+.header
 {
     background-color: var(--bgcolor-light-grey);
     width: 1600px;
@@ -183,7 +183,7 @@ ul
 {
     background-color: var(--people_bg);
 }
-.first-name
+.name
 {
     font-weight: Medium;
     color: var(--normal-text);
