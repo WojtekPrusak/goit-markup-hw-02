@@ -11,12 +11,12 @@
     --logo-color-black: #000000;
     --logo-color-white: #FFFFFF;
     --content-color: #757575;
-    --border: none;
     --address-color: #FFFFFF;
     --bgcolor-grey: #2F303A;
     --bgcolor-white: #F5F4FA;
     --bgcolor-light-grey: #ECECEC;
     --people_bg: #F5F4FA;
+    --border: none;
 }
 
 body
